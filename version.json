@@ -1,8 +1,8 @@
 {
-  "version": "0.8",
+  "version": "0.9",
   "required": true,
   "information": [
-    "Version 0.8 (20201225):",
+    "Version 0.9 (20210125):",
     "-Fix lỗi"
   ]
 }
