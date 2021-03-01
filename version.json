@@ -1,9 +1,9 @@
 {
-  "version": "0.15",
+  "version": "0.16",
   "required": true,
   "information": [
-    "Version 0.15:",
-    "- Tối ưu thuật toán + sửa lỗi tồn đọng",
+    "Version 0.16:",
+    "- Tối ưu thuật toán + sửa lỗi liên qua",
     "- Thêm chức năng Chọn phôi sử dụng (Lọc > Chọn)"
   ]
 }
