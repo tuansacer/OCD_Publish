@@ -1,8 +1,8 @@
 {
-  "version": "0.22",
+  "version": "0.23",
   "required": true,
   "information": [
-    "Version 0.22:",
+    "Version 0.23:",
     "- Tối ưu thuật toán + sửa lỗi liên qua",
     "- Thêm chức năng Chọn phôi sử dụng (Lọc > Chọn)"
   ]
